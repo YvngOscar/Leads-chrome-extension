@@ -1,0 +1,39 @@
+body{
+  margin: 0;
+  padding: 10px;
+  font-family:arial;
+  min-width: 400px;
+}
+
+input{
+  width: 100%;
+  padding:10px;
+  box-sizing:border-box;
+  border-style:solid;
+  border-width:1px;
+  border-color:rgb(6, 162, 6)
+}
+button{
+  margin-top:5px;
+  font-weight:bold;
+  border:1px solid rgb(6, 162, 6) ;
+  color:white;
+  padding:10px 20px;
+  background-color:rgb(6, 162, 6)
+}
+ul{
+  padding-left: 0px;
+  list-style: none;
+  margin-top: 20px;
+}
+a{
+  margin-top: 10px;
+  color: rgb(6, 162, 6)
+}
+li{
+  margin-top:5px;
+}
+#delete{
+  color:rgb(6, 162, 6);
+  background-color:white;
+}
