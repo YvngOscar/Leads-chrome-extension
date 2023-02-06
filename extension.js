@@ -23,7 +23,7 @@ function render(leads){
          <a/>
      </li>`
    }
-  //console.log(listItems)
+
  ulEl.innerHTML=listItems
 }
 
